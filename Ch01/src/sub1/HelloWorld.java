@@ -1,8 +1,8 @@
 package sub1;
 /*
- * �궇吏�:2020.04.29
- * �씠由�:媛뺣옒援�
- * �궡�슜:�옄諛� HelloWorld 異쒕젰�븯湲� 
+ * date :2020.04.29
+ * name:강래구
+ * content: HelloWorld 실습하기 
  * 
  */
 public class HelloWorld {

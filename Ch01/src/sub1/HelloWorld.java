@@ -1,23 +1,20 @@
 package sub1;
 /*
- * 날짜:2020.04.29
- * 이름:강래구
- * 내용:자바 HelloWorld 출력하기 
+ * �궇吏�:2020.04.29
+ * �씠由�:媛뺣옒援�
+ * �궡�슜:�옄諛� HelloWorld 異쒕젰�븯湲� 
  * 
  */
 public class HelloWorld {
 	public static void main(String[] args) {
-<<<<<<< HEAD
 	System.out.println("HelloWorld!");
 	System.out.println("Hello Java!");
 	System.out.println("Hello Java!");
 	System.out.println("Hello Java!");
 	System.out.println("Hello Java!");
 	System.out.println("Hello Java!");
-=======
 	System.out.println("HelloWorld~~");
-	system.out.println("Hello JAVA~~~);
->>>>>>> branch 'master' of https://github.com/LK920/java
+	System.out.println("Hello JAVA~~~");
 	}
 	
 }

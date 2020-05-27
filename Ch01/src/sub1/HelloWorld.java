@@ -10,11 +10,9 @@ public class HelloWorld {
 	System.out.println("HelloWorld!");
 	System.out.println("Hello Java!");
 	System.out.println("Hello Java!");
-	System.out.println("Hello Java!");
-	System.out.println("Hello Java!");
-	System.out.println("Hello Java!");
-	System.out.println("HelloWorld~~");
-	System.out.println("Hello JAVA~~~");
+	System.out.println("Hello ava!");
+	System.out.println("Hello ava!");
+	
 	}
 	
 }

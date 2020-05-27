@@ -1,18 +1,23 @@
 package sub1;
 /*
- * ³¯Â¥:2020.04.29
- * ÀÌ¸§:°­·¡±¸
- * ³»¿ë:ÀÚ¹Ù HelloWorld Ãâ·ÂÇÏ±â 
+ * ë‚ ì§œ:2020.04.29
+ * ì´ë¦„:ê°•ë˜êµ¬
+ * ë‚´ìš©:ìë°” HelloWorld ì¶œë ¥í•˜ê¸° 
  * 
  */
 public class HelloWorld {
 	public static void main(String[] args) {
+<<<<<<< HEAD
 	System.out.println("HelloWorld!");
 	System.out.println("Hello Java!");
 	System.out.println("Hello Java!");
 	System.out.println("Hello Java!");
 	System.out.println("Hello Java!");
 	System.out.println("Hello Java!");
+=======
+	System.out.println("HelloWorld~~");
+	system.out.println("Hello JAVA~~~);
+>>>>>>> branch 'master' of https://github.com/LK920/java
 	}
 	
 }

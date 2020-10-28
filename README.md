@@ -88,3 +88,33 @@
     Set 은 무작위 저장, TreeSet은 순서있음
   sub3. Map (key, value) 형식
 ```
+## ch17. javaFX
+## ch18. IO기반 입출력
+```
+  sub1. 기본 입출력 
+  sub2. 파일 입출력
+  sub3. reader 실습하기
+  sub3. property 컬렉션 실습하기
+```
+## ch20 JDBC 연결
+```
+  sub1. jdbc로 테이블 연결
+  sub2. CRUD 실습하기
+  sub3. JDBC preparestatement 실습하기
+```
+## javaCalc, javaRegister 
+```
+  javaFX로 계산기와, 회원등록 어플리케이션 만들기
+```
+## javaTest *
+```
+  설명 : 수업 중 실시한 자바 테스트 문제
+```
+## Lotto
+```
+  설명 : 간단한 로또 번호 추출 구현해봄
+```
+## MapReduceTest
+```
+  설명 : 빅데이터 수업 중 사용한 맵리듀스 예제
+```

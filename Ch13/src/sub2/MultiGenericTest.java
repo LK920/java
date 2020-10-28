@@ -8,8 +8,8 @@ package sub2;
 public class MultiGenericTest {
 	public static void main(String[] args) {
 		
-		TV tv = new TV();
-		SmartPhone phone = new SmartPhone();
+		TV tv = new TV("LG 올레드");
+		SmartPhone phone = new SmartPhone("아이폰 10s");
 		
 		Product<TV, Integer> p1 = new Product<>(tv, 100);
 		Product<SmartPhone, String> p2 = new Product<>(phone, "Galaxy s20");

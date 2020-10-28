@@ -11,7 +11,7 @@ public class Product<A, B> {
 	}
 	
 	public void show() {
-		System.out.println("力前 辆幅 : "+item);
+		System.out.println("力前 辆幅 : "+item.toString());
 		System.out.println("力前 沥焊 : "+info);
 	}
 

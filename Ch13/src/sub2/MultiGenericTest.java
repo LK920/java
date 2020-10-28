@@ -15,7 +15,10 @@ public class MultiGenericTest {
 		Product<SmartPhone, String> p2 = new Product<>(phone, "Galaxy s20");
 		
 		p1.show();
+		System.out.println("p1狼 力前疙 : "+p1.getItem().getName());
+		
 		p2.show();
+		System.out.println("p2狼 力前疙 : "+p2.getItem().getName());
 				
 		
 	}

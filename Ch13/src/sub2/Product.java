@@ -9,10 +9,13 @@ public class Product<A, B> {
 		this.item = item;
 		this.info = info;
 	}
-	
+	public A getItem() {
+		return item;
+	}	
 	public void show() {
 		System.out.println("力前 辆幅 : "+item.toString());
 		System.out.println("力前 沥焊 : "+info);
 	}
+
 
 }

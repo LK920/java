@@ -15,6 +15,9 @@ public class GenericTest {
 		FruitBox<Banana> bananaBox = new FruitBox<>();
 		bananaBox.setFruit(b);
 		
+		appleBox.getFruit().show();
+		bananaBox.getFruit().show();
+		
 	}
 
 }

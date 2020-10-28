@@ -22,12 +22,13 @@ public class SetTest {
 		
 		System.out.println("원소 갯수 : "+set.size());
 		
-		//본복자를 이용한 집합원소 출력
+		//반복자를 이용한 집합원소 출력
 		Iterator<Double> iter = set.iterator(); 
 		
 		while(iter.hasNext()) {
 			System.out.println("원소 : "+iter.next());
 		}
+		
 		
 		
 		

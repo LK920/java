@@ -20,8 +20,13 @@ public class StringTest {
 		String str2 = new String("Hello");
 		String str3 = "Hello"; // literal 积己
 		String str4 = "Hello"; // literal 积己
-		// new 肺 积己等 hello客 literal 积己狼 瞒捞
 		
+		System.out.println(str1);
+		System.out.println(str2);
+		System.out.println(str3);
+		System.out.println(str4);
+		
+		// new 肺 积己等 hello客 literal 积己狼 瞒捞
 		if(str1 == str2) {
 			System.out.println("str1苞 str2狼 曼炼蔼(林家蔼)捞 鞍促.");
 		} else {

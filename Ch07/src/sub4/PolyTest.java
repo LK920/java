@@ -40,5 +40,9 @@ public class PolyTest {
 		arr[0].move();
 		arr[1].move();
 		arr[2].move();
+		
+		arr[0].hunt();
+		arr[1].hunt();
+		arr[2].hunt();
 	}
 }

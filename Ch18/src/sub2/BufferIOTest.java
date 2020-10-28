@@ -13,8 +13,8 @@ import java.io.FileOutputStream;
 public class BufferIOTest {
 	public static void main(String[] args) throws Exception {
 		
-		String originfile = "C:\\Users\\bigdata\\Desktop\\sea.jpg";
-		String targetfile = "C:\\Users\\bigdata\\Desktop\\target.jpg";
+		String originfile = "C:\\Users\\bigdata\\Desktop\\img\\sea.jpg";
+		String targetfile = "C:\\Users\\bigdata\\Desktop\\img\\target.jpg";
 		//바탕화면에 출력 시킬 가상의 파일 경로 입력
 		//기본 스트림
 		FileInputStream fis =  new FileInputStream(originfile);

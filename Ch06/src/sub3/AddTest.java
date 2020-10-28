@@ -9,19 +9,19 @@ public class AddTest {
 		
 		int arr[] = {10,20,30};
 		Adder a =new Adder(100);
-		
+		//x = 100
 		a.add(100);
 		System.out.println("°´Ã¼ aÀÇ ¸â¹ö x : "+a.getX());
-		
+		//x = 150
 		a.add(a);
 		System.out.println("°´Ã¼ aÀÇ ¸â¹ö x : "+a.getX());
-		
+		//x = 190
 		a.add(arr);
 		System.out.println("¹è¿­ arrÀÇ 1¹øÂ° ¿ø¼Ò :"+arr[0]);
-		
+		//arr[0] = 11
 		a = a.addNew(a);
 		System.out.println("°´Ã¼ aÀÇ ¸â¹ö x : "+a.getX());
-		
+		//x=1
 		
 	}
 }

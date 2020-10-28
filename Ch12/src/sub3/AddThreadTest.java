@@ -12,8 +12,9 @@ public class AddThreadTest {
 		AddThread at2 = new AddThread(51, 100);
 		
 		Thread t1 = new Thread(at1);
+		System.out.println(t1);
 		Thread t2 = new Thread(at2);
-		
+		System.out.println(t2);
 		t1.start();
 		t2.start();
 		

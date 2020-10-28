@@ -1,5 +1,5 @@
 package sub1;
-/**
+/*
  * date : 2020/05/19
  * name : 강래구
  * content : Thread 클래스 실습하기 교재 p576
